@@ -1,0 +1,11 @@
+{
+    "texture": "akikawa_fukuin_none_sign",
+      "backTexture": 1,
+    "height": 1.25,
+    "width": 0.50,
+    "depth": 0.05,
+    "frame": 1,
+    "animationCycle": 1,
+    "color" : 0,
+      "lightValue": 4
+  }
