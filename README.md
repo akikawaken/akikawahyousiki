@@ -33,9 +33,6 @@
 出典:"道路標識、区画線及び道路標示に関する命令 - 別紙第二" https://elaws.e-gov.go.jp/document?lawid=335M50004002003
 「デザインガイドライン」（e-Gov） （ https://www.e-gov.go.jp/about/e-gov/designguidelines/ ）をもとにakikawa_9616が作成
 
-# バージョン
-=======
-
 # 最新版以外について
 
 最新版よりも前のバージョンのファイルは商用利用NG,再配布自由,改造配布自由になります。
@@ -44,7 +41,8 @@
 # 一部道路標識の出典
 出典:"道路標識、区画線及び道路標示に関する命令 - 別紙第二" https://elaws.e-gov.go.jp/document?lawid=335M50004002003
 「デザインガイドライン」（e-Gov） （ https://www.e-gov.go.jp/about/e-gov/designguidelines/ ）をもとにakikawa_9616が作成
-- - -
+
+# バージョン
 
 秋川標識 ver1.1.2
 
