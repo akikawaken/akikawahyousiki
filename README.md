@@ -23,8 +23,6 @@
 	サーバ内配布は許可します。
 	
 	その他の配布についてはご一報ください。
-	
-<<<<<<< HEAD
 
 # 最新版以外について
 
@@ -47,7 +45,6 @@
 出典:"道路標識、区画線及び道路標示に関する命令 - 別紙第二" https://elaws.e-gov.go.jp/document?lawid=335M50004002003
 「デザインガイドライン」（e-Gov） （ https://www.e-gov.go.jp/about/e-gov/designguidelines/ ）をもとにakikawa_9616が作成
 - - -
->>>>>>> a3f22e85cf17156360881a5558af26ae08bb102d
 
 秋川標識 ver1.1.2
 
