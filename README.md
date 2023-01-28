@@ -10,7 +10,7 @@
 「デザインガイドライン」（e-Gov） （ https://www.e-gov.go.jp/about/e-gov/designguidelines/ ）をもとにakikawa_9616が作成
 
 # 一部看板の出典
-「案内用図記号（JIS Z8210）（PDF版）」（国土交通省） （https://www.mlit.go.jp/common/001315215.pdf）をもとにakikawa_9616が作成
+「案内用図記号（JIS Z8210）（PDF版）」（国土交通省） ( https://www.mlit.go.jp/common/001315215.pdf )をもとにakikawa_9616が作成
 
 # バージョン
 
