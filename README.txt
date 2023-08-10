@@ -1,5 +1,5 @@
 れんらくさき
-mail akikawa9616@outlook.jp
+mail akikawatoiawase@outlook.jp
 twitter @akikawa_9616
 
 DLしてくれてありがと
