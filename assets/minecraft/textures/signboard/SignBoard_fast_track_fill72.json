@@ -1,0 +1,11 @@
+{
+  "texture": "fast_track_fill72",
+  "backTexture": 2,
+  "height": 1,
+  "width": 1,
+  "depth": 0.01,
+  "frame": 1,
+  "animationCycle": 1,
+  "color" : 0,
+  "lightValue": 0
+}
