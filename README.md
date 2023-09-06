@@ -1,4 +1,6 @@
-ダウンロードは[ここ](https://github.com/akikawaken/akikawahyousiki/releases/tag/v1.1.4 "ahaha")を押してassetsの一番上を押してください。
+[![ダウンロードぱげ](https://github.com/akikawaken/images/blob/main/dl.png?raw=true)](https://github.com/akikawaken/akikawahyousiki)
+
+~~...もしかして上の画像でかすぎか?~~
 
 # 規約
 
