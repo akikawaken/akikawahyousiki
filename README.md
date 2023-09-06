@@ -1,4 +1,4 @@
-[![ダウンロードぱげ](https://github.com/akikawaken/images/blob/main/dl.png?raw=true)](https://github.com/akikawaken/akikawahyousiki)
+[![ダウンロードぱげ](https://github.com/akikawaken/images/blob/main/dl.png?raw=true)](https://github.com/akikawaken/akikawahyousiki/releases)
 
 ~~...もしかして上の画像でかすぎか?~~
 
