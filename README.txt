@@ -26,8 +26,10 @@ DLしてくれてありがと
 一部看板のクレジット
 「イラストレーション・アイコン素材」（デジタル庁） - https://www.digital.go.jp/policies/servicedesign/designsystem/Illustration_Icons/
 ----------------------------------------------
-秋川標識 ver1.1.4
+秋川標識 ver1.1.5
 
 akikawa9616は改造品の配布禁止を求めることができることとします。
+
+変更履歴: https://github.com/akikawaken/akikawahyousiki/commits/master
 
 (c) 2022-2023 akikawa9616
