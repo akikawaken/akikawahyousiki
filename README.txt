@@ -32,4 +32,4 @@ akikawa9616は改造品の配布禁止を求めることができることとし
 
 変更履歴: https://github.com/akikawaken/akikawahyousiki/commits/master
 
-(c) 2022-2023 akikawa9616
+(c) 2022-2024 akikawa9616
