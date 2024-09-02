@@ -1,11 +1,11 @@
 {
-    "texture": "akikawa_escalator_ld",
-      "backTexture": 2,
-    "height": 0.50,
-    "width": 1.50,
-    "depth": 0.10,
-    "frame": 1,
-    "animationCycle": 1,
-    "color" : 0,
-      "lightValue": 4
-  }
+  "texture": "akikawa_error_ctof115ncid",
+    "backTexture": 2,
+  "height": 1,
+  "width": 1,
+  "depth": 0.10,
+  "frame": 1,
+  "animationCycle": 1,
+  "color" : 0,
+    "lightValue": 4
+}
