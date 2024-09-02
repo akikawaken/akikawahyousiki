@@ -1,4 +1,4 @@
-[![ダウンロードぱげ](https://github.com/akikawaken/images/blob/main/dl.png?raw=true)](https://github.com/akikawaken/akikawahyousiki/releases)
+[![ダウンロードぱげ](https://raw.githubusercontent.com/akikawaken/images/main/dl.png)](https://github.com/akikawaken/akikawahyousiki/releases)
 
 ~~...もしかして上の画像でかすぎか?~~
 
@@ -14,6 +14,11 @@
 
 # 一部看板のクレジット
 「イラストレーション・アイコン素材」（デジタル庁） - https://www.digital.go.jp/policies/servicedesign/designsystem/Illustration_Icons/
+
+# Q. 青背景白文字の変な看板が追加されるんだけど?
+
+通常の看板が削除された場合に、akikawa_error_*.pngなファイルが代わりに挿入されます。 そのファイルには、最後に含まれたバージョン,削除理由,代替となる看板名,エラー看板のファイル名が記述されています。  
+ちなみに、実験用ファイル(頭に"akikawa_"がついていないもの)は、削除されたとしてもエラー看板に置き換えがされないことがあるぞｗ
 
 # バージョン
 

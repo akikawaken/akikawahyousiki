@@ -26,5 +26,11 @@ DLしてくれてありがと
 akikawa9616は改造品の配布禁止を求めることができることとします。
 
 変更履歴: https://github.com/akikawaken/akikawahyousiki/commits/master
+配布場所: https://github.com/akikawaken/akikawahyousiki/
+
+[以下、作者の作ったものPR]
+RtmJsonCreator: https://akikawaken.github.io/RJC/main/
+RTM-Docs: https://akikawaken.github.io/RTM/Docs/json.html
+stationsmod-on-dynmap: https://github.com/akikawaken/stationsmod-on-dynmap
 
 (c) 2022-2024 akikawa9616
